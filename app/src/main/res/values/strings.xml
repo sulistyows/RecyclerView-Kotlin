@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CobaLagi</string>
+    <string name="listview">ListView</string>
+    <string name="gridview">GridView</string>
+</resources>
